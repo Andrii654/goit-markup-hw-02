@@ -102,6 +102,7 @@ address {
     display: block;
     padding: 24px 0;
     font-size: 16px;
+    /* виправлено */
     line-height: 1.5;
     font-weight: 500;
     letter-spacing: 0.02em;
@@ -151,6 +152,7 @@ address {
     font-weight: 700;
     letter-spacing: 0.02em;
     text-align: center;
+    /* виправлено */
     color: #ffffff;
 }
 
@@ -232,6 +234,7 @@ address {
     line-height: 1.2;
     font-weight: 500;
     text-align: center;
+    /* виправлено */
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
@@ -240,6 +243,7 @@ address {
     font-size: 16px;
     line-height: 1.5;
     text-align: center;
+    /* виправлено */
     letter-spacing: 0.02em;
     color: #434455;
 }
@@ -311,10 +315,12 @@ address {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+    /* Web */
 }
 
 .footer-logo-part {
     color: #f4f4fd;
+    /* Studio */
 }
 
 .footer-text {
